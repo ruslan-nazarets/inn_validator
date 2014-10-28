@@ -1,0 +1,4 @@
+ru:
+  errors:
+    messages:
+      inn: неверный номер ИНН

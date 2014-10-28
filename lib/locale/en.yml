@@ -1,0 +1,4 @@
+en:
+  errors:
+    messages:
+      inn: is not a valid INN
